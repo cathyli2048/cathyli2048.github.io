@@ -4,4 +4,4 @@ email: sbgetvpn@gmail.com
 url: https://sbget.com
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 
-theme: jekyll-theme-tactile
+theme: minima
