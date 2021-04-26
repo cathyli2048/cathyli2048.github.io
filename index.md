@@ -5,5 +5,10 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: page
+tilte: 欢迎使用烧饼哥VPN
 ---
+
+下载：   
+[Google Play Store][https://play.google.com/store/apps/details?id=com.sbget.free]   
+
